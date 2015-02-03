@@ -1,6 +1,15 @@
 
 /*
-esquema pines para mi mando
+EBLUDT 02/02/2015
+Brazo robot controlado por 3 servos y un mando ps2 para arduino.
+https://www.youtube.com/watch?v=WSRLUlyWnJA
+
+Es necesario descargar la libreria ps2x de bill porter
+http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
+
+Mas projectos arduino en http://montarelpollo.blogspot.com.es/
+
+Esquema pines para mi mando
 
 1   DATA      VERDE
 2   NARANJA   COMMAND
